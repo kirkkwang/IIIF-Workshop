@@ -1,0 +1,13 @@
+{
+  "id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in kirkkwang/IIIF-Workshop project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest.json",
+    "label" : "James Webb Space Telescope Images"
+  } ]
+}
