@@ -1,0 +1,66 @@
+{
+  "id" : "https://kirkkwang.github.io/IIIF-Workshop/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in kirkkwang/IIIF-Workshop project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3600,
+    "id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_star-forming_region_carina_nircam_final-5mb/canvas/",
+    "label" : {
+      "none" : [ "main_image_star-forming_region_carina_nircam_final-5mb" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_star-forming_region_carina_nircam_final-5mb/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_star-forming_region_carina_nircam_final-5mb/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 113,
+              "height" : 66
+            }, {
+              "width" : 225,
+              "height" : 131
+            }, {
+              "width" : 450,
+              "height" : 261
+            }, {
+              "width" : 900,
+              "height" : 522
+            }, {
+              "width" : 1800,
+              "height" : 1043
+            }, {
+              "width" : 3600,
+              "height" : 2085
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3600,
+            "@id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_star-forming_region_carina_nircam_final-5mb",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2085
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3600,
+          "id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_star-forming_region_carina_nircam_final-5mb/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2085
+        },
+        "target" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_star-forming_region_carina_nircam_final-5mb/canvas/"
+      } ]
+    } ],
+    "height" : 2085
+  } ]
+}
