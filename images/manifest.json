@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3500,
+    "id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb/canvas/",
+    "label" : {
+      "none" : [ "main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 110,
+              "height" : 105
+            }, {
+              "width" : 219,
+              "height" : 210
+            }, {
+              "width" : 438,
+              "height" : 420
+            }, {
+              "width" : 875,
+              "height" : 839
+            }, {
+              "width" : 1750,
+              "height" : 1678
+            }, {
+              "width" : 3500,
+              "height" : 3355
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3500,
+            "@id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3355
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3500,
+          "id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3355
+        },
+        "target" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_galaxies_stephans_quintet_sq_nircam_miri_final-5mb/canvas/"
+      } ]
+    } ],
+    "height" : 3355
+  }, {
     "width" : 3600,
     "id" : "https://kirkkwang.github.io/IIIF-Workshop/images/main_image_star-forming_region_carina_nircam_final-5mb/canvas/",
     "label" : {
