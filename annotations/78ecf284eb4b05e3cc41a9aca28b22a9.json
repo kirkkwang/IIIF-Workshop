@@ -1,0 +1,265 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "moon",
+      "@type" : "oa:Tag",
+      "chars" : "moon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Despina",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Despina</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/19597776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-09-22T06:17:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663827449690",
+    "dcterms:modified" : "2022-09-22T06:17:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=660,667,10,9"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M661.0554,668.03986c0.92603,-0.75263 2.23235,-1.31308 3.545,-1.31241v0v0c1.31265,0.00067 2.45618,0.52497 3.545,1.31241c1.08881,0.78744 1.51202,1.98736 1.46839,3.16844c-0.04363,1.18108 -0.55411,2.34333 -1.46839,3.16844c-0.91427,0.82511 -2.23235,1.31308 -3.545,1.31241c-1.31265,-0.00067 -2.61987,-0.48998 -3.545,-1.31241c-0.92513,-0.82243 -1.46816,-1.97798 -1.46839,-3.16844c-0.00023,-1.19045 0.54235,-2.41581 1.46839,-3.16844z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_44a2448e-b359-4a27-b5cf-594645f3942c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8f4b3e-b864-45c3-9fcd-472e4f29be92"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "moon",
+      "@type" : "oa:Tag",
+      "chars" : "moon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Thalassa",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Thalassa</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/19597776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-09-22T06:17:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663827437637",
+    "dcterms:modified" : "2022-09-22T06:17:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=524,648,10,10"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M525.60086,649.10492c0.92603,-0.84207 2.23235,-1.46913 3.545,-1.46839v0v0c1.31265,0.00075 2.45618,0.58736 3.545,1.46839c1.08881,0.88103 1.51202,2.22355 1.46839,3.545c-0.04363,1.32145 -0.55411,2.62182 -1.46839,3.545c-0.91427,0.92317 -2.23235,1.46913 -3.545,1.46839c-1.31265,-0.00075 -2.61987,-0.54821 -3.545,-1.46839c-0.92513,-0.92017 -1.46816,-2.21306 -1.46839,-3.545c-0.00023,-1.33194 0.54235,-2.70292 1.46839,-3.545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_fdda62b0-c06d-461e-8ede-4127cc1afde4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8f4b3e-b864-45c3-9fcd-472e4f29be92"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "moon",
+      "@type" : "oa:Tag",
+      "chars" : "moon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Triton",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Triton</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/19597776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-09-22T06:16:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663827361170",
+    "dcterms:modified" : "2022-09-22T06:16:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=385,228,38,38"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M390.05994,233.56803c3.46606,-3.1518 8.35549,-5.49884 13.26861,-5.49604v0v0c4.91313,0.0028 9.19328,2.19842 13.26861,5.49604c4.07533,3.29762 5.65936,8.32255 5.49604,13.26861c-0.16332,4.94607 -2.07399,9.81327 -5.49604,13.26861c-3.42205,3.45535 -8.35549,5.49884 -13.26861,5.49604c-4.91313,-0.0028 -9.80594,-2.05191 -13.26861,-5.49604c-3.46267,-3.44413 -5.49519,-8.28329 -5.49604,-13.26861c-0.00085,-4.98532 2.02998,-10.11681 5.49604,-13.26861z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_09bbde4c-9bec-45bd-89e6-8455dccfecf8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8f4b3e-b864-45c3-9fcd-472e4f29be92"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "moon",
+      "@type" : "oa:Tag",
+      "chars" : "moon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Galetea",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Galetea</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/19597776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-09-22T06:16:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663827404451",
+    "dcterms:modified" : "2022-09-22T06:16:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=504,607,15,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M506.67903,609.12868c1.41786,-1.19986 3.41797,-2.09335 5.42778,-2.09229v0v0c2.00981,0.00107 3.76069,0.83692 5.42778,2.09229c1.66709,1.25537 2.31507,3.16831 2.24826,5.05123c-0.06681,1.88292 -0.84841,3.73581 -2.24826,5.05123c-1.39986,1.31542 -3.41797,2.09335 -5.42778,2.09229c-2.00981,-0.00107 -4.01131,-0.78114 -5.42778,-2.09229c-1.41647,-1.31115 -2.24792,-3.15336 -2.24826,-5.05123c-0.00035,-1.89786 0.8304,-3.85137 2.24826,-5.05123z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_cb74a42a-895f-4e8e-a5f8-174cec909e75\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8f4b3e-b864-45c3-9fcd-472e4f29be92"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "moon",
+      "@type" : "oa:Tag",
+      "chars" : "moon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Naiad",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Naiad</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/19597776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-09-22T06:17:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663827421898",
+    "dcterms:modified" : "2022-09-22T06:17:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=515,628,13,12"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M516.97787,629.41688c1.22113,-1.02097 2.94372,-1.78124 4.67467,-1.78034v0v0c1.73094,0.00091 3.23889,0.71214 4.67467,1.78034c1.43578,1.0682 1.99385,2.69593 1.93631,4.29811c-0.05754,1.60218 -0.73069,3.17882 -1.93631,4.29811c-1.20562,1.11929 -2.94372,1.78124 -4.67467,1.78034c-1.73094,-0.00091 -3.45473,-0.66468 -4.67467,-1.78034c-1.21993,-1.11566 -1.93601,-2.68321 -1.93631,-4.29811c-0.0003,-1.6149 0.71518,-3.27715 1.93631,-4.29811z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_483c721f-cd4b-4014-9783-70cff8eba435\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8f4b3e-b864-45c3-9fcd-472e4f29be92"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "moon",
+      "@type" : "oa:Tag",
+      "chars" : "moon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Larissa",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Larissa</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/19597776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-09-22T06:17:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663827465231",
+    "dcterms:modified" : "2022-09-22T06:17:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=655,699,12,13"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M656.8219,701.39103c1.12276,-1.11041 2.7066,-1.9373 4.29811,-1.93631v0v0c1.59151,0.00099 2.97799,0.77453 4.29811,1.93631c1.32012,1.16178 1.83324,2.93212 1.78034,4.67467c-0.0529,1.74255 -0.67183,3.45731 -1.78034,4.67467c-1.10851,1.21735 -2.7066,1.9373 -4.29811,1.93631c-1.59151,-0.00099 -3.17645,-0.72291 -4.29811,-1.93631c-1.12167,-1.2134 -1.78006,-2.91829 -1.78034,-4.67467c-0.00027,-1.75638 0.65757,-3.56426 1.78034,-4.67467z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_4b684205-cb02-488d-b53c-facbc398fb18\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8f4b3e-b864-45c3-9fcd-472e4f29be92"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "moon",
+      "@type" : "oa:Tag",
+      "chars" : "moon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Proteus",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Proteus</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/19597776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-09-22T06:17:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663827479521",
+    "dcterms:modified" : "2022-09-22T06:17:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=749,706,16,19"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M751.08216,708.53455c1.51622,-1.55765 3.6551,-2.71757 5.80434,-2.71619v0v0c2.14924,0.00139 4.02159,1.08648 5.80434,2.71619c1.78275,1.62971 2.47568,4.11307 2.40424,6.55746c-0.07144,2.44439 -0.90726,4.8498 -2.40424,6.55746c-1.49697,1.70766 -3.6551,2.71757 -5.80434,2.71619c-2.14924,-0.00139 -4.2896,-1.01407 -5.80434,-2.71619c-1.51474,-1.70212 -2.40387,-4.09367 -2.40424,-6.55746c-0.00037,-2.46379 0.88801,-4.99981 2.40424,-6.55746z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_27532eba-2a7c-41c8-a8dc-fe4aeb209359\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8f4b3e-b864-45c3-9fcd-472e4f29be92"
+    } ]
+  } ],
+  "@id" : "https://kirkkwang.github.io/IIIF-Workshop/annotations/78ecf284eb4b05e3cc41a9aca28b22a9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
