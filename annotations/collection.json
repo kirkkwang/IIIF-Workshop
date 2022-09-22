@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://kirkkwang.github.io/IIIF-Workshop/annotations/78ecf284eb4b05e3cc41a9aca28b22a9.json" ],
+  "@id" : "https://kirkkwang.github.io/IIIF-Workshop/annotations/collection.json",
+  "label" : "All annotations loaded in kirkkwang/IIIF-Workshop project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
