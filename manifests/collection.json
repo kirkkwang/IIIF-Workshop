@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest.json",
     "label" : "James Webb Space Telescope Images"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json",
+    "label" : "James Webb Space Telescope"
   } ]
 }
