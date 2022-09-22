@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Foreground galaxy",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Foreground galaxy</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/19597776",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-09-22T06:21:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663827711483",
+    "dcterms:modified" : "2022-09-22T06:22:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=673,1116,1018,654"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M901.32265,1118.59567c108.86651,-9.89366 251.02735,6.05433 381.03883,55.71866v0v0c130.01148,49.66433 231.3487,124.17533 321.27342,212.31709c89.92472,88.14176 104.5251,175.72862 73.3104,244.54305c-31.2147,68.81443 -108.24448,118.85644 -217.59686,133.519c-109.35238,14.66256 -251.02735,-6.05433 -381.03883,-55.71866c-130.01148,-49.66433 -248.35947,-128.2761 -321.27342,-212.31709c-72.91395,-84.04099 -100.39388,-173.5112 -73.3104,-244.54305c27.08347,-71.03185 108.73034,-123.62534 217.59686,-133.519z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:20.88923283334792,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_e64c60f1-0836-4b28-8000-815a36ec4de6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"27.16599\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a566868-6aa4-4a89-a48e-4c0aaddb8dae"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Supermassive black hole",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Supermassive black hole</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/19597776",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-09-22T06:22:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663827773003",
+    "dcterms:modified" : "2022-09-22T06:22:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1957,982,23,34"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1968.61132,1016.42549c0,-7.54611 3.77305,-15.09222 11.31916,-22.63833c0,-6.2514 -5.06776,-11.31916 -11.31916,-11.31916c-6.2514,0 -11.31916,5.06776 -11.31916,11.31916c7.54611,7.54611 11.31916,15.09222 11.31916,22.63833z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_2496f06b-94cf-4156-af10-e9a110edb698\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0a566868-6aa4-4a89-a48e-4c0aaddb8dae"
+    } ]
+  } ],
+  "@id" : "https://kirkkwang.github.io/IIIF-Workshop/annotations/1e600234bf3ad70c581817302d165932.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
