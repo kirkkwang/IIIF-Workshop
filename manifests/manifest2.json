@@ -1,0 +1,160 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "James Webb Space Telescope",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Images captured by the James Webb Space Telescope",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution" : "National Aeronautics and Space Administration (NASA)",
+  "sequences" : [ {
+    "@id" : "http://680dd8c9-fbd5-4bc9-8297-e77c42a501c0",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://af8f4b3e-b864-45c3-9fcd-472e4f29be92",
+      "@type" : "sc:Canvas",
+      "label" : "Neptune",
+      "height" : 1059,
+      "width" : 1059,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e8cff305-5bb6-4312-8f3a-210cd2a4448f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lv-hyku-staging.notch8.cloud/images/d963f98b-c03d-44d6-a21a-86b8a174d74b%2Ffiles%2F1b16c8cb-dd7b-4cac-af4b-936a6ff6984e%2Ffcr:versions%2Fversion1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lv-hyku-staging.notch8.cloud/images/d963f98b-c03d-44d6-a21a-86b8a174d74b%2Ffiles%2F1b16c8cb-dd7b-4cac-af4b-936a6ff6984e%2Ffcr:versions%2Fversion1",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg", "png" ]
+            } ]
+          },
+          "height" : 1059,
+          "width" : 1059
+        },
+        "on" : "http://af8f4b3e-b864-45c3-9fcd-472e4f29be92"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Description",
+        "value" : "NASA’s James Webb Space Telescope shows off its capabilities closer to home with its first image of Neptune. Not only has Webb captured the clearest view of this distant planet’s rings in more than 30 years, but its cameras reveal the ice giant in a whole new light."
+      }, {
+        "label" : "Date",
+        "value" : "2021-09-21"
+      } ]
+    }, {
+      "@id" : "http://2c6144ae-75bf-437f-aa4a-28d71ee33103",
+      "@type" : "sc:Canvas",
+      "label" : "Carina Nebula",
+      "height" : 2085,
+      "width" : 3600,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0d9914b5-2d27-4245-a68e-483f151f91f9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lv-hyku-staging.notch8.cloud/images/76a2a290-fc9d-4d14-89d9-b69285b0077e%2Ffiles%2F42beb52a-d21a-485b-afda-45c543b45540%2Ffcr:versions%2Fversion1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lv-hyku-staging.notch8.cloud/images/76a2a290-fc9d-4d14-89d9-b69285b0077e%2Ffiles%2F42beb52a-d21a-485b-afda-45c543b45540%2Ffcr:versions%2Fversion1",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg", "png" ]
+            } ]
+          },
+          "height" : 2085,
+          "width" : 3600
+        },
+        "on" : "http://2c6144ae-75bf-437f-aa4a-28d71ee33103"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Description",
+        "value" : "This landscape of “mountains” and “valleys” speckled with glittering stars is actually the edge of a nearby, young, star-forming region called NGC 3324 in the Carina Nebula. Captured in infrared light by NASA’s new James Webb Space Telescope, this image reveals for the first time previously invisible areas of star birth."
+      }, {
+        "label" : "Date",
+        "value" : "2022-07-12"
+      } ]
+    }, {
+      "@id" : "http://0a566868-6aa4-4a89-a48e-4c0aaddb8dae",
+      "@type" : "sc:Canvas",
+      "label" : "Stephan's Quintet",
+      "height" : 3355,
+      "width" : 3500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3b965f84-4620-4f52-a9f8-a10ec3d6dfd5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lv-hyku-staging.notch8.cloud/images/af16265a-6a2c-45bf-916d-8b39d76145ee%2Ffiles%2F3591bb37-7519-409c-b13c-a9ac1a0f7058%2Ffcr:versions%2Fversion1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lv-hyku-staging.notch8.cloud/images/af16265a-6a2c-45bf-916d-8b39d76145ee%2Ffiles%2F3591bb37-7519-409c-b13c-a9ac1a0f7058%2Ffcr:versions%2Fversion1",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg", "png" ]
+            } ]
+          },
+          "height" : 3355,
+          "width" : 3500
+        },
+        "on" : "http://0a566868-6aa4-4a89-a48e-4c0aaddb8dae"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Description",
+        "value" : "Stephan’s Quintet, a visual grouping of five galaxies, is best known for being prominently featured in the holiday classic film, “It’s a Wonderful Life.” Today, NASA’s James Webb Space Telescope reveals Stephan’s Quintet in a new light. This enormous mosaic is Webb’s largest image to date, covering about one-fifth of the Moon’s diameter. It contains over 150 million pixels and is constructed from almost 1,000 separate image files. The information from Webb provides new insights into how galactic interactions may have driven galaxy evolution in the early universe."
+      }, {
+        "label" : "Date",
+        "value" : "2022-07-12"
+      } ]
+    }, {
+      "@id" : "http://66900b2a-e060-495e-94fa-bb18be75ee7f",
+      "@type" : "sc:Canvas",
+      "label" : "Cartwheel Galaxy",
+      "height" : 1840,
+      "width" : 2000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b1e9a311-a59e-4db4-a7e1-d53360208ed4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lv-hyku-staging.notch8.cloud/images/b8b4e18b-4b5d-4664-8b33-7888b93104c5%2Ffiles%2F714d87c6-78b3-4b0b-97a5-7a02dee4d633%2Ffcr:versions%2Fversion1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lv-hyku-staging.notch8.cloud/images/b8b4e18b-4b5d-4664-8b33-7888b93104c5%2Ffiles%2F714d87c6-78b3-4b0b-97a5-7a02dee4d633%2Ffcr:versions%2Fversion1",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg", "png" ]
+            } ]
+          },
+          "height" : 1840,
+          "width" : 2000
+        },
+        "on" : "http://66900b2a-e060-495e-94fa-bb18be75ee7f"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Description",
+        "value" : "NASA’s James Webb Space Telescope has peered into the chaos of the Cartwheel Galaxy, revealing new details about star formation and the galaxy’s central black hole. Webb’s powerful infrared gaze produced this detailed image of the Cartwheel and two smaller companion galaxies against a backdrop of many other galaxies. This image provides a new view of how the Cartwheel Galaxy has changed over billions of years."
+      }, {
+        "label" : "Date",
+        "value" : "2022-08-02"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
