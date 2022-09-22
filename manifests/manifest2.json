@@ -3,6 +3,11 @@
   "@id" : "https://kirkkwang.github.io/IIIF-Workshop/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "James Webb Space Telescope",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/19597776/d05478834627247fb2c33cb8c37a071f/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Images captured by the James Webb Space Telescope",
@@ -40,6 +45,11 @@
           "width" : 1059
         },
         "on" : "http://af8f4b3e-b864-45c3-9fcd-472e4f29be92"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/annotations/78ecf284eb4b05e3cc41a9aca28b22a9.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : "",
       "metadata" : [ {
@@ -110,6 +120,11 @@
           "width" : 3500
         },
         "on" : "http://0a566868-6aa4-4a89-a48e-4c0aaddb8dae"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://kirkkwang.github.io/IIIF-Workshop/annotations/1e600234bf3ad70c581817302d165932.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : "",
       "metadata" : [ {
